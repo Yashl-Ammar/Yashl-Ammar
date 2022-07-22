@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashl-Ammar
 - 👀 I’m Currently interested in mobile app development in flutter.
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m open if you'd like collaborate on a project
+- 💞️ I’m open if you'd like to collaborate on a project
 - 📫 How to reach me
 - you can contact via my email yashlammarr@gmail.com
 
